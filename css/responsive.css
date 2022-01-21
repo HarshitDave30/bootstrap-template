@@ -32,7 +32,7 @@
   .navbar-toggler-icon::before {content: "\f0c9";position: absolute;color: #ffffff;font-family: "FontAwesome";left: 5px;top: 5px;}
   .navbar-expand-md .navbar-nav .nav-link {color: #ffffff; padding: 10px 0px;}
   .hero-banner h1 {font-size: 40px;}
-  .hero-banner {padding: 110px 0px;}
+  .hero-banner {padding: 110px 0px 70px;}
   .banner-floating {padding: 30px 25px 30px 30px; bottom: 0px; max-width: 100%;}
   .hero-banner img {border-radius: 34px;}
   .education-image {margin-top: 100px;}
